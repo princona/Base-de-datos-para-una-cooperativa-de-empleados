@@ -1,7 +1,7 @@
 ## 📄 Descripción General
 Este proyecto es una base de datos que permite almacenar y administrar la información de la cooperativa, incluyendo los datos de los asociados, sus aportes y los créditos que han solicitado. Con esta herramienta, es posible tener una visión clara de la situación financiera y del compromiso de cada uno de los miembros. 
 
-## 🗂️ Tablas del Proyecto
+## 🗂️ Tablas del Proyecto COOEMSAN
 ### 1. Asociados
 Esta tabla contiene la información básica de cada asociado, como:
 - **ID del Asociado** 🆔: Número de identificación único del asociado.
